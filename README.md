@@ -4,7 +4,7 @@ El NIÑO CADAVER
 ## Creador
 Jesús Eduardo Olvera Hernández
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 5 cm una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+El personaje al momento que se acerca 2 m una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
@@ -33,3 +33,5 @@ Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pu
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+Captura Examen 1
+|CE1 Module 1|<img src="">|
