@@ -4,7 +4,7 @@ El NIÑO CADAVER
 ## Creador
 Jesús Eduardo Olvera Hernández
 ## Explicacion del funcionamiento
-El personaje al momento que se acerca 2 m una persona comienza a hacer algo (descripcion luz, sonido y movimiento), da una explicación completa.
+El personaje al momento que se acerca 2 m una persona comienza a hacer el movimiento de brasos y piernas acompañadi de un sonido, danto tambien a conocer que el sensor de luminosidad que verificara si es mucha o poca mandando la indicacion de si se prenderan o no los focos led.
 
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
