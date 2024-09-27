@@ -9,9 +9,11 @@ El personaje al momento que se acerca 2 m una persona comienza a hacer el movimi
 ## Materiales a utlizar
 |Material|Imagen|Cantidad|Costo|
 |--|--|--|--|
-|ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b&quot" width="100"/>|1|120.00|
-|HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b&quot"/>|1|30.00|
-|...||||
+|ESP32|<img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/2284773fb/placa-de-programacion-tipo-esp32-bluetooth-wi-fi.jpg" width="100"/>|1|120.00|
+|HC-SR04|<img width="100" src="https://uelectronics.com/wp-content/uploads/2017/06/AR0008-Sensor-Ultrasonico-V2.jpg"/>|1|30.00|
+|Led|<img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/1709082e0/led-de-5-mm-color-rojo-claro.jpg" width="100"/>|2|1.00|
+|Resistencias|<img src="https://aelectronics.com.mx/3312/resistencia-th-14-watt-220-ohm.jpg" width="100"/>|4|4.00|
+|Bocina|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjWiuXHnqDpDMUs_VN5tUjL-Wq5qh67aarg&s" width="100"/>|||
 
 ## Software a utilizar
 |Software|Versión|
