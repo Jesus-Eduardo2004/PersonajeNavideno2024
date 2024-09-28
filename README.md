@@ -32,7 +32,7 @@ Imagen hecha a mano o con software
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
 ## Enlace 1
-
+https://wokwi.com/projects/410249167496847361
 ## Enlace 2
 https://wokwi.com/projects/410149397517309953
 ## Videos
