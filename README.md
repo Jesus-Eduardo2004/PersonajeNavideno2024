@@ -14,6 +14,7 @@ El personaje al momento que se acerca 2 m una persona comienza a hacer el movimi
 |Led|<img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/1709082e0/led-de-5-mm-color-rojo-claro.jpg" width="100"/>|2|1.00|
 |Resistencias|<img src="https://aelectronics.com.mx/3312/resistencia-th-14-watt-220-ohm.jpg" width="100"/>|4|4.00|
 |Bocina|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbjWiuXHnqDpDMUs_VN5tUjL-Wq5qh67aarg&s" width="100"/>|||
+|Muñeco|<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcolombia.yaxa.co%2Fproducts%2Fvollence-munecas-de-bebe-de-silicona-completas-de-14-pulgadas-realistas-no-munecas-de-vinilo-muneca-de-bebe-de-silicona-real-realista-para%2F&psig=AOvVaw1ni-_CGIaLEqxfPsgyCnJO&ust=1727571427785000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjMjZ635IgDFQAAAAAdAAAAABAZ" width="100"/>|||
 
 ## Software a utilizar
 |Software|Versión|
