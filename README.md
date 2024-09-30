@@ -20,10 +20,6 @@ El personaje al momento que se acerca 2 m una persona comienza a hacer el movimi
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|Arduino IDS|2.3.2|
-|Pritcing|
-|Node-RED|
-|TinkerCAD|
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
